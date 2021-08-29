@@ -1,50 +1,34 @@
 # GithubSearch
 
-# [![BCH compliance](https://bettercodehub.com/edge/badge/moharick/Github-search?branch=master)](https://bettercodehub.com/)
+This project was created using [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
+# Description
+![Screenshot from 2021-07-29 18-09-17](https://user-images.githubusercontent.com/81568615/127518472-73c48bab-47d6-4904-97ac-32963950c479.png)
 
-## AUTHOR
-### [Moharick](https://github.com/moharick)
+Gitsearch allows a user to search a github user using their username. It returns the user information including, username, company, number of repositories, number of followers on github and the number of people they are following on github.
 
-## Description
-This is a website application that allows user to search users in github. Users are able to view information on a person and view their repository.
+## Setup and installation requirements.
 
-## Screenshot
-<img src="https://github.com/moharick/project-1/blob/master/gitsearch.png" width="1000">
+* clone repository at [Github User search](https://github.com/Tevin-creator/Github-Search).
+* Install Angular cli.
+* Run nmp install
+* Install globals e.g. Typescript packages and typescript.
+* npm install typescript -g
+* apm install atom-typescript
 
-## Setup
-* Open Terminal {Ctrl+Alt+T}
+## Development server
 
-* git clone ```https://github.com/moharick/Github-search.git```
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-* cd Github-search
+## Technologies Used.
 
-* code . or atom . depending on the text editor of your choice.
+* HTML
+* css
+* JavaScript
+* TypeScript
+* Node.js
+* Angular
 
-
-## BDD
-* Enter username e.g moharick
-* Hit send
-
-
-* Users can see person searched
-* Users can view profile
-* Users can view repository
- ## Known Bugs
-   * NO known bugs, incase of any please contact me
-
-## Technologies used
-  > `` html5 ``
-  > `` Css ``
-  > `` Markdown ``
-  > `` Typescript``
-  > `` Bootstrap ``
-  > ``Github Api`
-  > ``Angular``
 ## License
-  MIT License
-Copyright (c) 2019 Moharick
 
-## Collaborate
-  > Send me an [email](moharick@gmail.com) to collaborate on the project.
+MIT License. Copyright 2021 Tevin Isaac.

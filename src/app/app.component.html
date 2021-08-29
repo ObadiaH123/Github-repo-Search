@@ -1,3 +1,43 @@
-<app-navbar></app-navbar>
-<app-search-bar></app-search-bar>
-<router-outlet></router-outlet>
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="#">GithubSearch </a>
+      </div>
+      <div class="link"><a routerLink='/landing' routerLinkActive='active'> Profile</a></div>
+      <div>"       "</div>
+      <div class="link"><a routerLink='/profile' routerLinkActive='active'>Search</a></div>
+      <div>"       "</div>
+  
+  </nav>
+
+
+  
+  <body>
+    <div class="main">
+        <div class="container">
+            <div class="gradient">
+                <div class="content">
+                    <h2>TEVIN <br> ISAAC</h2>
+                    <p>Nairobi,KENYA</p>
+                    <br>
+                    <p class="details">Hi there!My name is Tevin Isaac.I am a software Developer and an Enterpreneuer.I studied film production and business related courses. Virtually I like making music and bieng creative by making digital art as a hobby.But physically my hobby is to explore
+                      good food.Check me out.</p>
+                    <div class="icons">
+                      <i class="fa fa-github" aria-hidden="true"></i>
+                        <i class="fa fa-facebook-square" aria-hidden="true"></i>
+                        <i class="fa fa-twitter" aria-hidden="true"></i>
+                        <i class="fa fa-instagram" aria-hidden="true"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+
+  
+  <!-- End of Navigation -->
+
+  
+  
+  <router-outlet></router-outlet>
+  
