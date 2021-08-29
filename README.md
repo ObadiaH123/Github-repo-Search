@@ -4,6 +4,9 @@ This project was generated with Angular CLI version 11.2.12.
 ## Author
 Kiprotich Bett Benard
 
+## Live View
+For a live view and interaction with the application, navigate to
+
 ## Description
 This is a web application that help users search for the Github accounts and repositories of different web developers.
 
@@ -29,5 +32,5 @@ Typescript
 Live Site
 View live
 
-Contacts
+## Contacts
 Reach us on info@retrobatech.co.ke
