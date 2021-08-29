@@ -19,7 +19,7 @@ You also need to have git installed You can install it with the following comman
 To access this project on your local files, you can clone it using these steps
 
 1. Open your terminal
-2. Use this command to clone `$ git clone 
+2. Use this command to clone `$ git clone https://github.com/ObadiaH123/Github-repo-Search.git
 3. This will clone the repositoty into your local folder
 Enjoy :)
 
