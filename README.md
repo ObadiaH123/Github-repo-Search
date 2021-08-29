@@ -1,34 +1,32 @@
-# GithubSearch
+# Github Search
+This project was generated with Angular CLI version 11.2.12.
 
-This project was created using [Angular CLI](https://github.com/angular/angular-cli) version 1.5.0.
+## Author
+Kiprotich Bett Benard
 
-# Description
-![Screenshot from 2021-07-29 18-09-17](https://user-images.githubusercontent.com/81568615/127518472-73c48bab-47d6-4904-97ac-32963950c479.png)
+Description
+This is a web application that help users search for their Github accounts and repositories.
 
-Gitsearch allows a user to search a github user using their username. It returns the user information including, username, company, number of repositories, number of followers on github and the number of people they are following on github.
+Prerequisites
+You need to have nodejs,npm and angular CLI installed You can install them with the following commands in your terminal $curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash - $sudo apt-get install -y nodejs $sudo npm install npm@latest -g $sudo npm install -g @angular/cli
 
-## Setup and installation requirements.
+You also need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
 
-* clone repository at [Github User search](https://github.com/Tevin-creator/Github-Search).
-* Install Angular cli.
-* Run nmp install
-* Install globals e.g. Typescript packages and typescript.
-* npm install typescript -g
-* apm install atom-typescript
+Setup
+To access this project on your local files, you can clone it using these steps
 
-## Development server
+Open your terminal
+Use this command to clone `$ git clone https://github.com/FITSTARGILLY2643/Github-Search
+This will clone the repositoty into your local folder
+Enjoy :)
+Technologies Used
+HTML
+CSS
+Git
+JS
+Typescript
+Live Site
+View live
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Technologies Used.
-
-* HTML
-* css
-* JavaScript
-* TypeScript
-* Node.js
-* Angular
-
-## License
-
-MIT License. Copyright 2021 Tevin Isaac.
+Contacts
+Reach us on githubsearch@fits.com or call +254 725 060 098
