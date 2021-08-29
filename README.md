@@ -15,11 +15,12 @@ You also need to have git installed You can install it with the following comman
 ## Setup
 To access this project on your local files, you can clone it using these steps
 
-Open your terminal
-Use this command to clone `$ git clone 
-This will clone the repositoty into your local folder
+1. Open your terminal
+2. Use this command to clone `$ git clone 
+3. This will clone the repositoty into your local folder
 Enjoy :)
-Technologies Used
+
+## Technologies Used
 HTML
 CSS
 Git
@@ -29,4 +30,4 @@ Live Site
 View live
 
 Contacts
-Reach us on githubsearch@fits.com or call +254 725 060 098
+Reach us on info@retrobatech.co.ke
