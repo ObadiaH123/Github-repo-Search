@@ -34,3 +34,6 @@ View live
 
 ## Contacts
 Reach us on info@retrobatech.co.ke
+
+## License
+MIT License
